@@ -1,7 +1,7 @@
 import { View, Text } from "react-native";
 import { GoogleInputProps } from "@/types/type";
 
-const GoogletextInput = ({
+const GoogleTextInput = ({
   icon,
   initialLocation,
   containerStyle,
@@ -15,4 +15,4 @@ const GoogletextInput = ({
   </View>
 );
 
-export default GoogletextInput;
+export default GoogleTextInput;
